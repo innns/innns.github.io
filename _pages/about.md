@@ -39,6 +39,6 @@ I am currently pursuing my Master’s degree at the University of Electronic Sci
 * **Language:** English - TOEFL 96
 
 ## Honors & Awards
-* <div>2<sup>nd</sup> Prize, China University Robot Competition<span style="float:right"><i>Oct. 2020</i></span></div>
-* <div>2<sup>nd</sup> Prize, China University Engineering Practice and Innovation Ability Competition<span style="float:right"><i>Nov. 2021</i></span></div>
-* <div>2<sup>nd</sup> Prize, China Postgraduate Mathematical Contest in Modeling<span style="float:right"><i>Oct. 2022</i></span></div>
+* <div>2<sup>nd</sup> Prize, China University Robot Competition<span style="float:right"><i>2020</i></span></div>
+* <div>2<sup>nd</sup> Prize, China University Engineering Practice and Innovation Ability Competition<span style="float:right"><i>2021</i></span></div>
+* <div>2<sup>nd</sup> Prize, China Postgraduate Mathematical Contest in Modeling<span style="float:right"><i>2022</i></span></div>
