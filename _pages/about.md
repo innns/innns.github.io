@@ -15,9 +15,9 @@ I am currently pursuing my Master’s degree at the [University of Electronic Sc
 ## Education
 * **I am actively searching for a PhD program!**
 * <div>University of Electronic Science and Technology of China<span style="float:right"><i>Sept. 2022 - Jul. 2025(expected)</i></span></div>
-  **M.S.** in Control Science and Engineering
+  **M.E.** in Control Science and Engineering
 * <div>University of Electronic Science and Technology of China<span style="float:right"><i>Sept. 2018 - Jul. 2022</i></span></div>
-  **B.S.** in Measurement and Control Technology and Instrument
+  **B.E.** in Measurement and Control Technology and Instrument
 
 
 ## Publications
