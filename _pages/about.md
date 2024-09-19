@@ -34,7 +34,7 @@ I am currently pursuing my Master’s degree at the University of Electronic Sci
 
 ## Skills
 * **Programming Languages:** C++, Python, LaTeX
-* **Platform:** Linux, FreeOS
+* **Platform:** Linux, FreeRTOS
 * **Development:** Pytorch, ROS, OpenCV, Docker, CMake, Git
 * **Language:** English - TOEFL 96
 
