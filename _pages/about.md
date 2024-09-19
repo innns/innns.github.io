@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I'm **Xiang Zhang**.
 
-I am currently pursuing my Master’s degree at the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) ([UESTC](https://en.uestc.edu.cn/)), focusing in **surgical robots** and **medical image processing**.
+I am currently pursuing my master’s degree at the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) ([UESTC](https://en.uestc.edu.cn/)), focusing in **surgical robots** and **medical image processing**.
 
 
 ## Education
