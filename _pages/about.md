@@ -9,14 +9,14 @@ redirect_from:
 
 Hi, I'm **Xiang Zhang**.
 
-I am currently pursuing my master’s degree at the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) ([UESTC](https://en.uestc.edu.cn/)), focusing in **surgical robots** and **medical image processing**.
+I am currently pursuing my master’s degree at the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) ([UESTC](https://en.uestc.edu.cn/)), focusing in **robot learning**, **surgical robots** and **medical image processing**.
 
 
 ## Education
-* **I am actively searching for a PhD program!**
-* <div>University of Electronic Science and Technology of China<span style="float:right"><i>Sept. 2022 - Jul. 2025(expected)</i></span></div>
+* <font color="red"><b>Searching for a PhD program in Fall 2025!</b></font>
+* <div>University of Electronic Science and Technology of China<span style="float:right"><i>Aug. 2022 - Jul. 2025(expected)</i></span></div>
   **M.E.** in Control Science and Engineering
-* <div>University of Electronic Science and Technology of China<span style="float:right"><i>Sept. 2018 - Jul. 2022</i></span></div>
+* <div>University of Electronic Science and Technology of China<span style="float:right"><i>Aug. 2018 - Jul. 2022</i></span></div>
   **B.E.** in Measurement and Control Technology and Instrument
 
 
@@ -36,7 +36,7 @@ I am currently pursuing my master’s degree at the [University of Electronic Sc
 * **Programming Languages:** C++, Python, LaTeX
 * **Platform:** Linux, FreeRTOS
 * **Development:** Pytorch, ROS, OpenCV, Docker, CMake, Git
-* **Language:** English - TOEFL 96
+* **Language:** English - TOEFL 96, GRE Q 170 + V 148
 
 ## Honors & Awards
 * <div>2<sup>nd</sup> Prize, China University Robot Competition<span style="float:right"><i>2020</i></span></div>

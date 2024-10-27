@@ -8,4 +8,4 @@ redirect_from:
 
 Contact information is below
 
-* E-mail: [x.zhang@std.uestc.edu.cn](x.zhang@std.uestc.edu.cn)
+* E-mail: `x.zhang[at]std.uestc.edu.cn` or `x.zhang.hz[at]outlook.com`
