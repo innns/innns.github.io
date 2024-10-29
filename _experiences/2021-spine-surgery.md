@@ -1,5 +1,5 @@
 ---
-title: "Surgical Navigation and Teleoperation For Robot-assisted Spine Surgery"
+title: "Surgical Navigation and Teleoperation for Robot-assisted Spine Surgery"
 collection: experiences
 type: "Research Projects"
 permalink: /experiences/2021-spine-surgery
