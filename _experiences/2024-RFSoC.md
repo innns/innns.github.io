@@ -11,6 +11,8 @@ location: "Shenzhen, China"
 
 This project aims to implement an ultra-high speed signal generation and acquisition system using Xilinx RFSoC. The system utilizes digital IQ mixers to generate and acquire RF signals at carrier frequencies of 4-8 Ghz by interpolating and filtering the signals and converting them to quadrature modulation D/A or A/D.
 
-* FPGA Driver Development;
-* Communicate with existing experimental frames via TCP;
-* Wrote assembly-like code to support implementation of ultra-high-speed timing control;
+I was responsible for:
+
+* Development of RFSoC driver to control A/D, D/A, IQ mixer, filter, attenuator, etc.;
+* Communicate with existing software stack via TCP;
+* Development of assembly-like code to support implementation of nanosecond-level delay control;

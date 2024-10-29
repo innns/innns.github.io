@@ -9,8 +9,13 @@ end: "Present"
 location: "Chengdu, China"
 ---
 
-The project aims to design a surgical navigation and teleoperation system for robot-assisted spine surgery, realizing a high-precision positioning system; spin puncture path planning and navigation; teleoperation robot arm control.
+The project aims to design a surgical navigation and teleoperation system for robot-assisted spine surgery, realizing a high-precision positioning system; path planning and navigation of puncture; automated execution of puncture; teleoperation robot arm control.
 
-* Development of high-precision visual algorithm based on **C++**, **OpenCV** and **Eigen** to achieve sub-millimeter accuracy;
-* Use D-H method to model the 6-axis robot arm, and realize the forward and inverse solution and motion control of the 6-axis robot arm;
-* Develop a teleoperation control system based on real-time feedback to achieve low-latency teleoperation control;
+I was responsible for:
+
+* Development of high-precision algorithm based on **Python** and **NumPy** to achieve sub-millimeter accuracy;
+* Development of the forward and inverse solution and motion control of the 6-axis robot arm;
+* Development of teleoperation control system based on real-time feedback to achieve low-latency teleoperation control;
+* Development of the visualization of the system based on **QT** and **VTK**
+
+![spine pic](./2021-spine.png)
