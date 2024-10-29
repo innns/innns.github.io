@@ -1,5 +1,5 @@
 ---
-title: "Surgical Navigation and Teleoperation System Based on Stereo Vision"
+title: "Surgical Navigation and Teleoperation For Robot-assisted Spine Surgery"
 collection: experiences
 type: "Research Projects"
 permalink: /experiences/2021-spine-surgery
@@ -18,4 +18,4 @@ I was responsible for:
 * Development of teleoperation control system based on real-time feedback to achieve low-latency teleoperation control;
 * Development of the visualization of the system based on **QT** and **VTK**
 
-![spine pic](./2021-spine.png)
+![spine pic](./2021-spine.gif)
