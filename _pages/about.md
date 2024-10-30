@@ -27,6 +27,15 @@ I am currently pursuing my master’s degree at the [University of Electronic Sc
 
 
 ## Experiences
+<table><tr>
+<td><a href="/experiences/2022-force-feedback">
+<img src="https://innns.top/experiences/2022-force.gif" border=0>
+</a></td>
+<td><a href="/experiences/2021-spine-surgery">
+<img src="https://innns.top/experiences/2021-spine.gif" border=0>
+</a></td>
+</tr></table>
+
 <ul>{% for post in site.experiences reversed %}
   {% include archive-single-experience-cv.html %}
 {% endfor %}</ul>
