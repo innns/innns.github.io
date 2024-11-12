@@ -9,7 +9,7 @@ end: "Present"
 location: "Chengdu, China"
 ---
 
-This project aims to train an end-to-end motion compensation model that can be applied to surgical robotic systems by building digital twins in Unity for deep reinforcement learning. The model accomplishes smooth motion compensation by directly generating control quantities of end moments through visual inputs.
+This project aims to achieve motion compensation for surgical robots by developing an end-to-end visual model for controlling the robot's end-effector torque. A virtualized robot model is implemented in Unity to facilitate reinforcement learning for model training, which is subsequently transferred to the real robot using Sim2Real transfer techniques.
 
 I was responsible for:
 
