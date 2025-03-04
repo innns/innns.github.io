@@ -1,5 +1,5 @@
 ---
-title: "Motion Compensation Using Deep Reinforcement Learning"
+title: "Visual Servoing Motion Compensation"
 collection: experiences
 type: "Research Projects"
 permalink: /experiences/2024-motion-compensation
@@ -9,10 +9,10 @@ end: "Present"
 location: "Chengdu, China"
 ---
 
-This project aims to achieve motion compensation for surgical robots by developing an end-to-end visual model for controlling the robot's end-effector torque. A virtualized robot model is implemented in Unity to facilitate reinforcement learning for model training, which is subsequently transferred to the real robot using Sim2Real transfer techniques.
+This project aims to achieve a visual servoing motion compensation for surgical robots by controlling the robot's end-effector's current. A virtualized robot model is implemented in Unity to facilitate controller training, which is subsequently deployed in the real-world robot.
 
 I was responsible for:
 
-* Digital twin of surgical machinery built in **Unity ML Agent** based on **system identification**;
-* Training the model in a virtual environment by **SAC-LSTM** / **PPO-LSTM**;
-* Sim2Real deployment;
+* System identification for the robot;
+* Training the motion compensation controller in a virtual environment;
+* Deploying the controller in the real-world robot;
